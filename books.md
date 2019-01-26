@@ -13,4 +13,4 @@ A list of books I have authored.
 
 Release Date : January, 22, 2018
 
-Author : Joannah nanjekye
+Author : Joannah nanjekyez
